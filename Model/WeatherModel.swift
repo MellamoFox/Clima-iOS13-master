@@ -1,7 +1,6 @@
 //
 //  WeatherModel.swift
 //  Clima
-//
 //  Created by Vitalii Tsoi on 25.11.2022.
 //  Copyright © 2022 App Brewery. All rights reserved.
 //
